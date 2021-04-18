@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Pratheek11
+- 👀 I’m interested in Front End Webdevelopment
+- 🌱 I’m currently learning Computer science Enginnering (2)
