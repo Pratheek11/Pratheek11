@@ -1,3 +1,3 @@
-- Hi https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif , I’m @Pratheek11
+- Hi , I’m @Pratheek11
 - 👀 I’m interested in Front End Web-development and Software development (Java).
 - 🌱 I’m currently learning Computer science Enginnering (III yr)
