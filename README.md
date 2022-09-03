@@ -1,3 +1,4 @@
 - Hi , I’m @Pratheek11
-- 👀 I’m interested in Front End Web-development and Software development (Java).
 - 🌱 I’m currently learning Computer science Enginnering (III yr)
+- 👀 I’m interested in Front End Web-development and Software development (Java).
+- A React,React-Native and Machine Learning enthusiast.
